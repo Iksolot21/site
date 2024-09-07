@@ -1,2 +1,2 @@
-# site
-Site
+Site for snake game
+
